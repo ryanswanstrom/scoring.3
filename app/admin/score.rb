@@ -1,4 +1,5 @@
 ActiveAdmin.register Score do
+  permit_params :value, :active
 
 
   # See permitted parameters documentation:
