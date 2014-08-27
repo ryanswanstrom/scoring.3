@@ -1,4 +1,5 @@
 ActiveAdmin.register TimeFrame do
+  permit_params :name, :txt
 
 
   # See permitted parameters documentation:
