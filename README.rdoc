@@ -1,1 +1,3 @@
 == README
+
+This is a sample of a project created by [Prelang.com](http://prelang.com)
